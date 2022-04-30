@@ -24,14 +24,6 @@ Here are some ideas to get you started:
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MohsinTheLegend&layout=compact&theme=chartreuse-dark" />
 
-> CONTACT WITH ME :
-
-<p align="left">" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="niloyahmed" height="30" width="40" /></a>
-<a href="https://fb.com/saiful.behri.355" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saiful.behri.355" height="30" width="40" /></a>
-<a href="https://instagram.com/md_niloy_48" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social//" height="30" width="40" /></a>
-<a href="https://youtube.com/channel/UC0b8UgFl_6VzK7bmUa7XRag
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/channel/UC0b8UgFl_6VzK7bmUa7XRag" height="30" width="40" /></a>
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Zuck-Ker) <a href="https://github.com/Zuck-Ker"></a>
 
 </p>
